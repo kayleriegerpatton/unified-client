@@ -19,7 +19,7 @@
 
 ## About The Project
 
-Unified is the one-stop-shop where university students can find career development opportunities, engage with each other, and make environmentally and financially sustainable choices.
+Unified is the one-stop-shop where university students can find career development opportunities, engage with and support each other, and make environmentally and financially sustainable choices.
 
 ### Project Links
 
@@ -51,7 +51,14 @@ Access the [deployed server](https://desolate-eyrie-52631.herokuapp.com/).
 
 ### Logo
 
-![Unified Logo](public/images/unified-public-nav.png)
+![Unified Logo](public/images/unifiedlogo.png)
 
 ### Deployed app screenshots
 
+![Landing page](public/images/landing-page.png)
+
+![Job listings page](public/images/jobs-page.png)
+
+![Forum post page](public/images/forum-post-page.png)
+
+![Marketplace page](public/images/market-place.png)
