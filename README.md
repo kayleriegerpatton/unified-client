@@ -45,12 +45,6 @@ View the [client repo](https://github.com/kayleriegerpatton/unified-client)
 
 ## Screenshots
 
-### Logo
-
-![Unified Logo](public/images/unifiedlogo.png)
-
-### Screenshots
-
 ![Landing page](public/images/landing-page.png)
 
 ![Job listings page](public/images/jobs-page.png)
