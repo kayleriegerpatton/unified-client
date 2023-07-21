@@ -27,10 +27,6 @@ View the [server repo](https://github.com/kayleriegerpatton/unified-server).
 
 View the [client repo](https://github.com/kayleriegerpatton/unified-client)
 
-View the [deployed application](https://unified-education.herokuapp.com/).
-
-Access the [deployed server](https://desolate-eyrie-52631.herokuapp.com/).
-
 ### Technologies
 
 #### Front End
@@ -53,7 +49,7 @@ Access the [deployed server](https://desolate-eyrie-52631.herokuapp.com/).
 
 ![Unified Logo](public/images/unifiedlogo.png)
 
-### Deployed app screenshots
+### Screenshots
 
 ![Landing page](public/images/landing-page.png)
 
